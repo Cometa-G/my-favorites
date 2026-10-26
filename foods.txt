@@ -4,3 +4,11 @@ Favorite Foods
 3. Roasted Ribs
 4. Fried Rice
 5. Leche Flan
+6. Halo-halo
+7. Chocolate
+
+Categories:
+- Main dish: Hong Shao Ruo, Honey Garlic Buttered Chicken, Roasted Ribs
+- Side dish: Fried Rice
+- Dessert: Leche Flan, Halo-halo
+- Snack: Chocolate
