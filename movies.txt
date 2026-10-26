@@ -6,3 +6,8 @@ Favorite Movies
 5. 5 Centimeters per Second
 6. Maquia: When the Promised Flower Blooms
 7. Suzume
+
+Genres:
+- Drama: A Silent Voice, The Tunnel to Summer, the Exit of Goodbyes, To Every You I've Loved Before // To Me, The One Who Loved You, 5 Centimeters per Second, Suzume
+- Romance: Hello World
+- Fantasy: Maquia: When the Promised Flower Blooms
