@@ -4,3 +4,5 @@ Favorite Mobile Apps
 3. Spotify
 4. SkPort
 5. Bilibili
+6. IbisPaint
+7. pixiv
